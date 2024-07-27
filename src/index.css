@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 300;
+  padding: 0px;
+}
+
+.App {
+  height: 20000px;
+}
+
+.logo {
+  margin: 10px;
+}
+svg {
+  width: 100px;
+  height: 100px;
+  padding: 200px;
+}
+
+header {
+  position: fixed;
+  top: -70px;
+  left: -70px;
+}
